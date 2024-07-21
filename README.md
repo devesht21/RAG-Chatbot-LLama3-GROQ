@@ -3,6 +3,8 @@
 
 This project is a Streamlit application that performs Question and Answering (Q&A) on articles loaded from a given URL. It leverages the Langchain framework, Groq API, and the Llama3 language model to retrieve and generate responses based on the context of the article.
 
+You can check the project live [here](https://rag-chatbot-llama3-groq.streamlit.app/)
+
 ## Table of Contents
 
 - [Installation](#installation)
